@@ -1,0 +1,17 @@
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 1\Project1\Debug\Project1.exe
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 1\Project1\Debug\Project1.pdb
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 2\Project1\Debug\Project1.exe
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 2\Project1\Debug\Project1.pdb
+D:\учёба\Алгоритмические основы компьютерной графики\Лаба 2\Project1\Debug\Project1.exe
+D:\учёба\Алгоритмические основы компьютерной графики\Лаба 2\Project1\Debug\Project1.pdb
+C:\Users\Ghost\source\repos\Компьютерная графика\Лаба 2\Project1\Debug\Project1.exe
+C:\Users\Ghost\source\repos\Компьютерная графика\Лаба 2\Project1\Debug\Project1.pdb
+C:\Users\Ghost\source\repos\Компьютерная графика\Лаба 3\Project1\Debug\Project1.exe
+C:\Users\Ghost\source\repos\Компьютерная графика\Лаба 3\Project1\Debug\Project1.pdb
+C:\Users\Ghost\source\repos\Компьютерная графика\Лаба 4\Debug\Project1.pdb
+C:\Users\Ghost\source\repos\Компьютерная графика\Лаба 4\Project1\Debug\Project1.exe
+C:\Users\Ghost\source\repos\Компьютерная графика\Лаба 4\Project1\Debug\Project1.pdb
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 4(5)\Project1\Debug\Project1.exe
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 4(5)\Project1\Debug\Project1.pdb
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 4\Project1\Debug\Project1.exe
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 4\Project1\Debug\Project1.pdb

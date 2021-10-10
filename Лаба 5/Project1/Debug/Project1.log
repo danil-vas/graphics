@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 4\Project1\main.cpp(71,54): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 4\Project1\main.cpp(82,37): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 4\Project1\main.cpp(83,37): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 4\Project1\main.cpp(123,49): warning C4244: =: преобразование "GLfloat" в "int", возможна потеря данных
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 4\Project1\main.cpp(126,47): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 4\Project1\main.cpp(137,49): warning C4244: =: преобразование "GLfloat" в "int", возможна потеря данных
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 4\Project1\main.cpp(140,47): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 4\Project1\main.cpp(147,49): warning C4244: =: преобразование "GLfloat" в "int", возможна потеря данных
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 4\Project1\main.cpp(150,47): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 4\Project1\main.cpp(158,49): warning C4244: =: преобразование "GLfloat" в "int", возможна потеря данных
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 4\Project1\main.cpp(161,47): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+  Project1.vcxproj -> C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 4\Project1\Debug\Project1.exe
