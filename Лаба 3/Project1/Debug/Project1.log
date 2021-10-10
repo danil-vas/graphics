@@ -1,0 +1,9 @@
+﻿  Source1.cpp
+C:\Users\Ghost\Desktop\Лаба 3\Project1\Source1.cpp(34,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ghost\Desktop\Лаба 3\Project1\Source1.cpp(81,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ghost\Desktop\Лаба 3\Project1\Source1.cpp(82,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ghost\Desktop\Лаба 3\Project1\Source1.cpp(225,47): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Ghost\Desktop\Лаба 3\Project1\Source1.cpp(231,47): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Ghost\Desktop\Лаба 3\Project1\Source1.cpp(237,47): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Ghost\Desktop\Лаба 3\Project1\Source1.cpp(241,47): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+  Project1.vcxproj -> C:\Users\Ghost\Desktop\Лаба 3\Debug\Project1.exe
