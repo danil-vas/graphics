@@ -1,0 +1,8 @@
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 1\Project1\Debug\Project1.exe
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 1\Project1\Debug\Project1.pdb
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 2\Project1\Debug\Project1.exe
+C:\Users\danil\Desktop\учёба\Алгоритмические основы компьютерной графики\Лаба 2\Project1\Debug\Project1.pdb
+D:\учёба\Алгоритмические основы компьютерной графики\Лаба 2\Project1\Debug\Project1.exe
+D:\учёба\Алгоритмические основы компьютерной графики\Лаба 2\Project1\Debug\Project1.pdb
+E:\учёба\Алгоритмические основы компьютерной графики\Лаба 2\Project1\Debug\Project1.exe
+E:\учёба\Алгоритмические основы компьютерной графики\Лаба 2\Project1\Debug\Project1.pdb
